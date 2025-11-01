@@ -39,3 +39,9 @@
 
 # debug information files
 *.dwo
+
+# CMake build directory
+build/
+
+# Legacy Rust artifacts (project now uses C++)
+target/
