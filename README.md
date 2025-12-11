@@ -86,23 +86,6 @@ ctest --test-dir build
 
 ASAN and UBSAN are automatically enabled in Debug builds.
 
-## Migration Status
-
-See [migration-plan.md](migration-plan.md) for detailed status.
-
-### Completed
-- ✅ Core DB implementation
-- ✅ CLI interface
-- ✅ Unit tests
-- ✅ CMake build system
-- ✅ CI/CD pipeline
-
-### In Progress
-- ⏳ Integration tests
-- ⏳ Benchmark comparisons
-
-## Architecture
-
 See [ARCHITECTURE.md](ARCHITECTURE.md) for system design and diagrams.
 
 ## Key Design Choices
