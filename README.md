@@ -57,8 +57,7 @@ cd build && ctest --output-on-failure
 ## Development Workflow
 
 ### Branch Strategy
-- `master`: Stable C++ implementation
-- `rust-to-cpp20`: Migration history (original port)
+- `main`: Stable C++ implementation
 
 ### Commit Conventions
 Standard commit messages with clear descriptions

@@ -43,5 +43,5 @@
 # CMake build directory
 build/
 
-# Legacy Rust artifacts (project now uses C++)
+# Build artifacts
 target/
